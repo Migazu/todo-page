@@ -14,7 +14,7 @@ Yksinkertainen tehtävälista, joka toimii selaimessa.
 4. Poista tehtävä painamalla ruksia
 
 ## Live-versio
-[Sovellus täällä](NETLIFY_URL)
+[Sovellus täällä]([NETLIFY_URL](https://todo-lista313.netlify.app/))
 
 ## Repo
 [GitHub repository](https://github.com/TILISI/todo-app)
