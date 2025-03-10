@@ -15,6 +15,3 @@ Yksinkertainen tehtävälista, joka toimii selaimessa.
 
 ## Netlify
 [Sovellus Netlifyssä](https://todo-lista313.netlify.app)
-
-## Repo
-[GitHub repository](https://github.com/TILISI/todo-app)
