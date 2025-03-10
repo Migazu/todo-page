@@ -13,8 +13,8 @@ Yksinkertainen tehtävälista, joka toimii selaimessa.
 3. Klikkaa tehtävää merkitäksesi sen tehdyksi
 4. Poista tehtävä painamalla ruksia
 
-## Live-versio
-[Sovellus täällä]([NETLIFY_URL](https://todo-lista313.netlify.app/))
+## Netlify
+[Sovellus täällä]((https://todo-lista313.netlify.app/))
 
 ## Repo
 [GitHub repository](https://github.com/TILISI/todo-app)
